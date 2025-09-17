@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Piyush Pandey   <img src="https://komarev.com/ghpvc/?username=piyushgithub&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/piyushgithub?label=Followers&style=social" alt="GitHub Followers" />
+# 👋 Hey there, I'm Piyush Pandey   <img src="https://komarev.com/ghpvc/?username=Piyush220803&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/Piyush220803?label=Followers&style=social" alt="GitHub Followers" />
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Software+Engineer;React+Native+Developer;Full+Stack+Developer;Competitive+Problem-Solver" alt="Typing SVG" />
@@ -9,11 +9,11 @@
 💻 **Software Engineer | React Native Developer | Full Stack Developer** 🌍 **Based in India** | Recent CS Graduate with 1+ year of professional experience  
 ⚡ **Passionate about building high-performance applications, user-centric web platforms, and solving complex problems**
 
-- [cite_start]🔭 Currently working on **enhancing mobile app performance** and **building dynamic web solutions** [cite: 38, 49, 55]
-- [cite_start]🌱 Learning **Advanced React Native techniques** and **AI integration** [cite: 16, 25, 27, 38, 55]
+- 🔭 Currently working on **enhancing mobile app performance** and **building dynamic web solutions**
+- 🌱 Learning **Advanced React Native techniques** and **AI integration**
 - 👯 Looking to collaborate on **open-source React or React Native projects**
-- [cite_start]💬 Ask me about **React, React Native, Next.js, JavaScript, or Full Stack Development** [cite: 22, 25, 26, 28, 52, 57]
-- [cite_start]⚡ Fun fact: I enjoy bringing UIs to life with 3D and motion! [cite: 39, 45, 57]
+- [cite_start]💬 Ask me about **React, React Native, Next.js, JavaScript, or Full Stack Development** [cite: 21, 22, 23, 24, 25, 26, 27, 28, 29]
+- [cite_start]⚡ Fun fact: I enjoy bringing UIs to life with 3D and motion! [cite: 57]
 
 ## 🛠️ Tech Arsenal
 
@@ -42,7 +42,7 @@
 ## 🔥 Activity Overview
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushgithub&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=86400" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush220803&theme=tokyonight&hide_border=true&custom_title=Contribution%20Graph&cache_seconds=86400" alt="Contribution Graph" />
 </div>
 
 ## 🎯 Professional Stats
@@ -51,12 +51,12 @@
   
 | **Category** | **Achievement** |
 |--------------|-----------------|
-| 🏆 **Total Projects** | [cite_start]2+ Major Personal Projects [cite: 47, 53] |
+| 🏆 **Total Projects** | [cite_start]2+ Major Personal Projects [cite: 46, 53] |
 | 📊 **Primary Languages** | [cite_start]JavaScript, Python, Java [cite: 22] |
 | 🚀 **Key Technologies** | [cite_start]React, React Native, Next.js, Node.js [cite: 25, 28, 52] |
-| 📈 **Experience** | [cite_start]~1 Year Professional Experience [cite: 37, 42] |
+| 📈 **Experience** | [cite_start]~1 Year Professional Experience [cite: 37, 41] |
 | 🎓 **Education** | [cite_start]B.Tech (Computer Science) [cite: 3] |
-| 🏅 **Competitive Ranks** | [cite_start]5+ First Place Wins [cite: 59, 60, 61, 62, 63] |
+| 🏅 **Competitive Ranks** | [cite_start]5+ First Place Wins [cite: 60, 61, 62, 63] |
 | 🌍 **Location** | [cite_start]India [cite: 3, 7, 11, 37, 42] |
 | 🔬 **Focus Areas** | [cite_start]Web/Mobile Performance, AI Applications [cite: 38, 55] |
   
@@ -67,7 +67,7 @@
 - [cite_start]📱 **React Native App Optimization** → At Agavian Software, boosted app performance by 30-35% and enhanced UI/UX. [cite: 37, 38]
 - [cite_start]💡 **Pitch Your Startup** → A full-stack platform for startup ideas using Next.js, Tailwind CSS, and GitHub OAuth for secure access. [cite: 47, 49, 51, 52]
 - [cite_start]🖼️ **AI Image Enhancer** → A React web app that integrates AI models via APIs to upscale and improve image quality. [cite: 53, 55, 56]
-- [cite_start]🏆 **Award-Winning Hackathon Solutions** → Achieved 1st Rank in multiple intra-college Hackathons and National Level technical competitions. [cite: 61, 62, 63]
+- [cite_start]🏆 **Award-Winning Competitor** → Achieved 1st Rank in multiple intra-college Hackathons and National Level technical competitions. [cite: 60, 61, 62, 63]
 
 
 ## 🎯 Portfolio Highlights
@@ -81,7 +81,7 @@
 ## 🎓 Education
 
 - [cite_start]🎓 **B.Tech (Computer Science)** – Roorkee Institute of Technology (2021-2025) [cite: 2, 3]
-- [cite_start]🎓 **Senior Secondary & High School (CBSE)** – Kendriya Vidyalaya [cite: 4, 5, 8, 9]
+- [cite_start]🎓 **Senior Secondary & High School (CBSE)** – Kendriya Vidyalaya [cite: 4, 5, 6, 8, 9, 10]
 
 ## 💼 Professional Journey
 
@@ -97,7 +97,7 @@
   <a href="http://linkedin.com/in/piyushlinkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="http://github.com/piyushgithub" target="_blank">
+  <a href="https://github.com/Piyush220803" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="http://facebook.com/piyushfacebook" target="_blank">
