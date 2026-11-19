@@ -73,7 +73,7 @@
 ## 🎯 Portfolio Highlights
 
 <div align="center">
-  <a href="https://www.piyush.engineer" target="_blank">
+  <a href="https://developerpiyush.tech/" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit_Portfolio-piyush.engineer-00D4FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Portfolio" />
   </a>
 </div>
@@ -91,7 +91,7 @@
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://www.piyush.engineer" target="_blank">
+  <a href="https://developerpiyush.tech/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/piyush-pandey-9a7929222/" target="_blank">
